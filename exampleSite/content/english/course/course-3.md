@@ -1,71 +1,58 @@
 ---
-title: "Artificial Intelligence"
+title: "NetConf/Yang Crash Course"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Learn NetConf ,Yang ,SDN Opendaylight Netconf with practical Learn Network Automation with Netconf , Yang & OpenDayLight Netconf connector. Practical/Lab oriented course.."
 # course thumbnail
 image: "images/courses/course-3.jpg"
 # taxonomy
-category: "Artificial Intelligence"
+category: "SDN"
 # teacher
-teacher: "Alex Rook"
+teacher: "KnetSolutions"
 # duration
-duration : "06 Month"
+duration : "03 hours"
 # weekly
 weekly : "03 hours"
 # course fee
-fee : "From: $699"
+fee : "From: $10"
 # apply url
-apply_url : "#"
+apply_url : "https://www.udemy.com/course/learn-netconf-yang-sdn-opendaylight-with-practical/?referralCode=E5850EEDC3BA56E19507"
 # type
-type: "course"
+type: "udemy-course"
 ---
 
 
 ### About Course
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+Learn NetConf, Yang & OpendayLight NetConf Connector  - Practical/Handson exercises
+
+This course is practical handson course with (cisco devnet lab - publicly available with FREE Access ).  We DO NOT Provide any LAB from our side.  
+
+This course covers all the major NetConf & Yang Concepts.  Covers Opendaylight Netconf exercises
+
+- 100% handson Demonstration/Lab Exercises
+
+- Extensive step by step guides for all sessions.
+
+- All Documents/Exercises/Programs are downloadable.
+
+What will you Gain:
+
+- Understanding NetConf/Yang Concepts with extensive handson exercises with Cisco DevNet Lab
+
+- OpenDaylight Netconf exercises.</p>
 
 ### Requirements
 
-
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+* Basic networking  knowledge
 
 
 ### How to Apply
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+* Click below link
 
+* https://www.udemy.com/course/learn-netconf-yang-sdn-opendaylight-with-practical/?referralCode=E5850EEDC3BA56E19507
 
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.

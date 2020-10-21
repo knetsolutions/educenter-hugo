@@ -1,31 +1,19 @@
 ---
-title: "Vlogging"
+title: "Teaching Materials and Testing Methods"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# course thumbnail
-image: "images/courses/course-6.jpg"
-# taxonomy
-category: "Photography"
-# teacher
-teacher: "Duis Rio"
-# duration
-duration : "06 Month"
-# weekly
-weekly : "03 hours"
-# course fee
-fee : "From: $699"
-# apply url
-apply_url : "#"
+# notice download link
+download_link : "#"
 # type
-type: "course"
+type: "notice"
 ---
 
 
-### About Course
+### About Notice
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -36,7 +24,7 @@ laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et qu
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+labore et dolore magnam aliquam quaerat voluptatem.
 
 ### Requirements
 
@@ -46,15 +34,6 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
-
-### How to Apply
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 
 
 ### Fees and Funding

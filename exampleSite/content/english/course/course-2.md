@@ -1,71 +1,45 @@
 ---
-title: "Mathematics"
+title: "SDN Opendaylight(ODL) Controller Crash Course"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Opendaylight SDN Controller Crash course. Its a LAB Oriented course. This course helps you learn/practice/lab activities of OpendayLight controller in your laptop/desktop itself. This is crash course , help you to understand the OPENDAYLIGHT SDN Controller and various plugins (Openflow plugin, Openvswitch Database Plugin (OVSDB)
+BGP Plugin)
+All you need is, Ubuntu 18.04 VM/Desktop/Laptop for setting up the LAB. If you just follow the course, you would be able to understand/practice the entire course with activities."
 # course thumbnail
 image: "images/courses/course-2.jpg"
 # taxonomy
-category: "Mathematics"
+category: "SDN"
 # teacher
-teacher: "Jacke Mastio"
+teacher: "KnetSolutions"
 # duration
-duration : "06 Month"
+duration : "5 Hours"
 # weekly
-weekly : "03 hours"
+weekly : ""
 # course fee
-fee : "From: $699"
+fee : "From: $10"
 # apply url
-apply_url : "#"
+apply_url : "https://www.udemy.com/course/sdn-opendaylight-crash-course/?referralCode=7BEB1B23E24F64BDC435"
 # type
-type: "course"
+type: "udemy-course"
 ---
 
 
 ### About Course
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+OpenDayLight SDN Controller Basics with Practical LAB exercises
+ODL Openflowplugin -  install and manage the dataplane of openflow switch, Lab with MiniNet
+.</p>
 
 ### Requirements
 
 
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+* Basic networking  knowledge
 
 
 ### How to Apply
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+* Click below link
+* https://www.udemy.com/course/sdn-opendaylight-crash-course/?referralCode=7BEB1B23E24F64BDC435
 
-
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.

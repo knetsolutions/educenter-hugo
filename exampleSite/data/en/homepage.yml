@@ -4,8 +4,19 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Online Courses in UDEMY "
+      content : "Our Software Defined Networking Courses (RYU, OPENDAYLIGHT, NETCONF/YANG) , DevOps, Kubernetes are live in UDEMY"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "More Details"
+        link : "course"
+
+    # slider item loop
+    - title : "Online Training"
+      content : "Personalized Online training (one to one ) in Software Defined Networking, Kubernetes, DevOps "
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,28 +26,26 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Academic SDN Project Guidance"
+      content : "You're here because you want the best Academic Software Defined Networking (SDN) Project guidance and Training"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "More Details"
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Learning Platform"
+      content : "Our Learning platform contains the lab guide documents of our courses, this can be made it open for the benifits of students."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact"
-
-
+        label : "More Details"
+        link : "https://learning.knetsolutions.in/"
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
@@ -45,33 +54,29 @@ banner_feature:
     # feature item loop
     - name : "Scholorship News"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "FREE SDN Courses(UDEMY) for the students, who can't afford the fees."
 
     # feature item loop
     - name : "Our Notice Board"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "20+ SDN Miniprojects demonstrated in our youtube channel with theoritical explanation, logics etc."
 
     # feature item loop
     - name : "Our Achievements"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "200+ SDN Projects Guided, Students from around the World."
 
-    # feature item loop
-    - name : "Admission Now"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
 
 
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
+  title : "About KnetSolutions"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
+  content : "KNET SOLUTIONS is micro startup, based out of Chennai, India. We are group of experienced IT Industry Professionals worked wih Networking/SDN/Cloud/development/architect in leading Telecom/Datacom Companies.
 
 
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  Our Services includes Udemy Courses in Cutting Edge technologies, Online Trainings , Workshops and assist SDN academic projects. We also contribute in Opensource Projects."
   button:
     enable : true
     label : "Learn more"
@@ -88,7 +93,7 @@ course:
 cta:
   enable : true
   subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  title : "One to One Personalized Training in Kubernetes"
   button:
     enable : true
     label : "join now"
@@ -100,18 +105,17 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : "Knetsolutions is the leading solutions for projects and developments in Software Defined Networking (SDN). Deploying an SDN architecture in existing traditional network proves to be challenging but with knetsolutions, implementation is swift and easy. During my design and implementation, I encountered several challenges in getting my desired result but with guidance and assistance from knetsolutions, my project was a success. 
+
+
+  The tutorial videos are top notch and for every question I asked, I got immediate response. For anyone willing to delve into SDN, I strongly recommend knetsolutions."  
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  video_link : "https://www.youtube.com/watch?v=WrLsiT65igY&list=PLFY0hc9nGyb3B1uqdy4-k-xj-m0aSU5Sv"
 
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Upcoming Events"
   # event item comes from "content/**/event" folder.
 
@@ -122,19 +126,19 @@ funfacts:
   funfact_item:
     # funfact item loop
     - name : "TEACHERS"
-      count : "60"
+      count : "1"
 
     # funfact item loop
     - name : "COURSES"
-      count : "50"
+      count : "4"
 
     # funfact item loop
     - name : "STUDENTS"
-      count : "1000"
+      count : "3500"
 
     # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
+    #- name : "SATISFIED CLIENT"
+    #  count : "3400"
 
 # funfact is for about page
 
@@ -142,6 +146,6 @@ funfacts:
 
 ############################# blog ################################
 blog:
-  enable : true
+  enable : false
   title : "Latest News"
   # blog item comes from "content/**/blog" folder.

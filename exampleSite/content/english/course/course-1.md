@@ -1,71 +1,47 @@
 ---
-title: "Photography"
+title: "SDN RYU Controller Crash Course "
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "SDN self learning course.  This is practical demo oriented course. For working professionals, This is crash course , help you to understand the Openflow SDN concepts with lab exercises in half day. You can setup SDN Test bed by yourselves and practice by yourselfs with REST API.
+
+All you need is, Ubuntu 18.04 VM/Desktop/Laptop for setting up the LAB.  If you just follow the course, you would be able to understand/practice SDN Openflow concepts using REST API.
+
+For Students,  This course covers with Mininet topologies, Writing Custom Mininet Scripts,  RYU Controller Programming Exercises (L3 Switch, L4 Switch, Flow Timeouts, Flow Priorities, Flow Pipeline processing, Group tables, ARP PRoxy , etc )  This course talks about only OPENFLOW and Programming with RYU SDN CONTROLLER. This course will help you to do the Academic project in SDN ."
+
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "Photography"
+category: "SDN"
 # teacher
-teacher: "Clark Malik"
+teacher: "KnetSolutions"
 # duration
-duration : "06 Month"
-# weekly
-weekly : "03 hours"
+duration : "11 Hours"
 # course fee
-fee : "From: $699"
+fee : "From: $10"
 # apply url
-apply_url : "#"
+apply_url : "https://www.udemy.com/course/beginners-sdn-course-with-ryu-controller-practical-handson/?referralCode=3C4DD08C0DB3F68704B7"
 # type
-type: "course"
+type: "udemy-course"
 ---
 
 
 ### About Course
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+Software Defined Networking basis, Detailed openflow concepts with practical RYU exercises, Mininet , Mininet- WiFi (Wireless Topology), Writing Mininet scripts
+Advanced Openflow concepts , such as meter table (QoS), group table (Load balancer, Sniffer). - REST API/ North bound Interface
+SDN Controller programming with RYU Controller..</p>
 
 ### Requirements
 
+* Basic Networking knowledge
 
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 
 ### How to Apply
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+* Click this below link
+* https://www.udemy.com/course/beginners-sdn-course-with-ryu-controller-practical-handson/?referralCode=3C4DD08C0DB3F68704B7
 
-
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
