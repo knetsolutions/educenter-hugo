@@ -7,8 +7,7 @@ cd knetsolutions
 git clone https://github.com/knetsolutions/educenter-hugo.git
 cd educenter-hugo/exampleSite
 #generating pages
-hugo server --themesDir  ../..
-
+hugo server -D  --baseURL "http://knetsolutions.in/" --bind `hostname -I` -p 8080 --themesDir ../..
 
 Build docker image
 ==================
