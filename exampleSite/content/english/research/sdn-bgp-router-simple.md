@@ -1,21 +1,21 @@
 ---
-title: "SDN - Stateful Firewall Project Training"
-date: 2020-10-10
+title: "BGP Router"
+date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Stateful firewall keeps track of the state of network connections, such as TCP streams,  and can apply labels such as LISTEN, ESTABLISHED, or CLOSING. State table entries are created for TCP streams that are allowed to communicate through the firewall in accordance with the configured security policy."
-# notice download link
-download_link : "#"
+description : "BGP Router implementation in SDN"
+# Research image
+image: "images/research/research-1.jpg"
 # type
-type: "notice"
+type: "research"
 ---
 
 
 ### Project Overview:
 
-Implements the Stateful Firewall in SDN Controller. Centralized SDN Controller.
+Implements the BGP Router in SDN
 
 ### Prerequisties
 
@@ -32,9 +32,9 @@ Implements the Stateful Firewall in SDN Controller. Centralized SDN Controller.
 
 ### Demo Video
 
-Implements the Stateful Firewall in SDN Controller. Centralized SDN Controller.
+youtube video link
 
-[![Stateful Firewall](https://img.youtube.com/vi/WrLsiT65igY/0.jpg)](https://youtu.be/WrLsiT65igY "Stateful Firewall")
+[![BGP Router](https://img.youtube.com/vi/41mfHz-6vew/0.jpg)](https://youtu.be/41mfHz-6vew "BGP Router")
 
 
 
@@ -45,14 +45,14 @@ Implements the Stateful Firewall in SDN Controller. Centralized SDN Controller.
 
 | Project Name         | Fees($) | Trans(8%) | Total ($)|
 |----------------------|---------|-----------|-----------|
-|Stateful Firewall     | 225     |   18      | 243       |
+|BGP Router     | 200     |   16      | 216       |
 
 
 **Indian Students**
 
 | Project Name         | Fees(Rs) | GST(18%) | Total (Rs)|
 |----------------------|---------|-----------|-----------|
-|Stateful Firewall     | 14625     |   2632.5 |  17257.5 |
+|BGP Router     | 13000     |   2340 |  15340 |
 
 **Payment**
 

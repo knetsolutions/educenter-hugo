@@ -59,25 +59,22 @@ weight = 3
 name = "Pages"
 hasChildren = true
 
-  #[[menu.main]]
-  #parent = "Pages"
-  #name = "teacher"
-  #URL = "teacher"
-
-  #[[menu.main]]
-  #parent = "Pages"
-  #name = "notice"
-  #URL = "notice"
+  [[menu.main]]
+  parent = "Pages"
+  name = "online_training"
+  URL = "event"
 
   [[menu.main]]
   parent = "Pages"
   name = "sdn_projects"
+  URL = "research"
+
+  [[menu.main]]
+  parent = "Pages"
+  name = "sdn_project_guidence"
   URL = "notice"
 
-  #[[menu.main]]
-  #parent = "Pages"
-  #name = "event"
-  #URL = "event"
+
 
   #[[menu.main]]
   #parent = "Pages"
@@ -88,8 +85,10 @@ hasChildren = true
   #parent = "Pages"
   #name = "research"
   #URL = "research"
-
-
+  #[[menu.main]]
+  #parent = "Pages"
+  #name = "notice"
+  #URL = "notice"
 
 [[menu.main]]
 name = "blog"

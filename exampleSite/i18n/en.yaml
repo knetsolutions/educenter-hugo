@@ -140,4 +140,10 @@
   translation: contact
 
 - id: sdn_projects
-  translation: SDN Projects
+  translation: SDN Mini Projects
+
+- id: sdn_project_guidence
+  translation: SDN Project Guidence
+
+- id: online_training
+  translation: Online Trainings
