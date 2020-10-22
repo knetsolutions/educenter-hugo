@@ -16,7 +16,7 @@ WORKDIR /www
 
 hugo new site knetsolutions && cd knetsolutions
 git clone https://github.com/knetsolutions/educenter-hugo.git
-cd educenter-hugo/example
+cd educenter-hugo/exampleSite
 
 EXPOSE 80
 hugo server -D  --baseURL "http://knetsolutions.in/" --bind `hostname -I` -p 80 --themesDir ../..
