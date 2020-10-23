@@ -16,23 +16,54 @@ type: "research"
 ### Project Overview:
 
 Implements the Virtual LAN(VLAN) in SDN Controller.
+Refer more details in the project **demo video**.
+
+**Setup**
+
+- Ubuntu 16.04/ 18.04
+
+- Mininet
+
+- RYU SDN Controller
+
+
+### Training Details
+
+- SDN Beginners Training(Mininet, RYU controller) will be provided through our UDEMY COURSE
+
+- Students needs to follow the course and setup the SDN Lab in his laptop/desktop.
+
+- We help you to resolve any Test bed installation issue and executing the example exercises.
+
+- Project theory/logic/workflow/code will be explained by us through one to one Online Video Training.
+
+- Project will be demonstrated by the trainer through one to one Online Video Training.
+
 
 ### Prerequisties
 
-* Basic python skills
-* UDEMY RYU SDN CRASH COURSE (Free coupon will be provided for project students)
+* Basic Python & Networking skills 
+
 
 ### Deliverables	
+
 * Project runs on RYU & Mininet on Ubuntu 16.04 or 18.04(tested)
+
 * Project supports both python 2.7 & python 3
+
 * Write up of project details/logic  and inline comments for code
+
+* we DON'T provide PROJECT REPORT / Analysis / Test results etc. Students needs to learn, experiment and do it himself.
+
 * One Hour online training (https://meet.jit.si) will be provided. Online training will be recorded, and  shared.
+
 * Two weeks support(email/whatsapp)
 
 
 ### Demo Video
 
-VLAN Project demo youtube link
+youtube video link.
+
 
 [![VLAN](https://img.youtube.com/vi/gL6z60SF9V4/0.jpg)](https://youtu.be/gL6z60SF9V4 "VLAN")
 

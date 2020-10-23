@@ -21,11 +21,15 @@ fee : "From: $10"
 # apply url
 apply_url : "https://www.udemy.com/course/learn-netconf-yang-sdn-opendaylight-with-practical/?referralCode=E5850EEDC3BA56E19507"
 # type
-type: "udemy-course"
+type: "course"
 ---
 
 
 ### About Course
+
+
+This course is avilable in UDEMY Platform.
+
 
 Learn NetConf, Yang & OpendayLight NetConf Connector  - Practical/Handson exercises
 

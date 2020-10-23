@@ -59,19 +59,21 @@ banner_feature:
     # feature item loop
     - name : "Our Notice Board"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "20+ SDN Miniprojects demonstrated in our youtube channel with theoritical explanation, logics etc."
+      content : "20+ SDN Miniprojects demonstrated in our youtube channel with theoritical explanation"
 
     # feature item loop
     - name : "Our Achievements"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "200+ SDN Projects Guided, Students from around the World."
+      content : "200+ SDN Projects Guided. 3500+  Students trained.
+                 Students from 20+ countries."
+                
 
 
 
 ############################## about ##################################
 about:
   enable : true
-  title : "About KnetSolutions"
+  title : "About KNET Solutions"
   image : "images/about/about-us.jpg"
   content : "KNET SOLUTIONS is micro startup, based out of Chennai, India. We are group of experienced IT Industry Professionals worked wih Networking/SDN/Cloud/development/architect in leading Telecom/Datacom Companies.
 
@@ -86,14 +88,14 @@ about:
 ############################# Course ################################
 course:
   enable : true
-  title : "Our Course"
+  title : "Our Courses in UDEMY"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "One to One Personalized Training in Kubernetes"
+  subtitle : "Online Training / Consultation"
+  title : "One to One Personalized Training"
   button:
     enable : true
     label : "join now"
