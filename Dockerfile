@@ -12,11 +12,8 @@ RUN mkdir -p /usr/local/src \
     && mv hugo /usr/local/bin/hugo 
 
 WORKDIR /www
-
-
-hugo new site knetsolutions && cd knetsolutions
-git clone https://github.com/knetsolutions/educenter-hugo.git
-cd educenter-hugo/exampleSite
-
 EXPOSE 80
-hugo server -D  --baseURL "http://knetsolutions.in/" --bind `hostname -I` -p 80 --themesDir ../..
+RUN hugo new site knetsolutions 
+RUN cd knetsolutions && git clone https://github.com/knetsolutions/educenter-hugo.git 
+WORKDIR /www/knetsolutions/educenter-hugo/exampleSite 
+CMD hugo server -D  --baseURL "http://dev.knetsolutions.in/" --bind `hostname -I` -p 80 --themesDir ../..
